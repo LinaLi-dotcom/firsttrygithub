@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         thelabel.text = "ABC"
     }
     @IBAction func thebutton(_ sender: Any) {
-        thelabel.text = "DEF"
+        thelabel.text = "Sigrid"
     }
     
     }
